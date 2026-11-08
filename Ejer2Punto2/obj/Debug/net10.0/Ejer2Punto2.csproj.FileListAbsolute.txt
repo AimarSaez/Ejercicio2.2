@@ -1,0 +1,14 @@
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\bin\Debug\net10.0\Ejer2Punto2.exe
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\bin\Debug\net10.0\Ejer2Punto2.deps.json
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\bin\Debug\net10.0\Ejer2Punto2.runtimeconfig.json
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\bin\Debug\net10.0\Ejer2Punto2.dll
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\bin\Debug\net10.0\Ejer2Punto2.pdb
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\obj\Debug\net10.0\Ejer2Punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\obj\Debug\net10.0\Ejer2Punto2.AssemblyInfoInputs.cache
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\obj\Debug\net10.0\Ejer2Punto2.AssemblyInfo.cs
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\obj\Debug\net10.0\Ejer2Punto2.csproj.CoreCompileInputs.cache
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\obj\Debug\net10.0\Ejer2Punto2.dll
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\obj\Debug\net10.0\refint\Ejer2Punto2.dll
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\obj\Debug\net10.0\Ejer2Punto2.pdb
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\obj\Debug\net10.0\Ejer2Punto2.genruntimeconfig.cache
+C:\Users\aimsa\Desktop\2DAM\ACCESO A DATOS\Ejer2Punto2\obj\Debug\net10.0\ref\Ejer2Punto2.dll
